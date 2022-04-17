@@ -1,5 +1,5 @@
-# Rebeha-DevOps-Program
-Rebeha DevOps resources to advance your knowledge in the DevOps filed and the people you can follow 
+# Rabeha-DevOps-Program
+Rabeha DevOps resources to advance your knowledge in the DevOps filed and the people you can follow 
 
 ## what is Rabeha Scholorship?
 It is a Training for women in the Information and Communications Technology (ICT) sector. Egyptian Council for Training and Development conducts this program under the UN Women – UNIDO Joint Programme framework, “Women Economic Empowerment for Inclusive and Sustainable Growth in Egypt.” <br/>
