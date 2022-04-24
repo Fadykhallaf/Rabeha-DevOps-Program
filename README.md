@@ -13,6 +13,7 @@ The resources mentioned in this repo are based on my personal experience, so fee
 <strong>1- Linux: </strong>
 - https://abarrak.gitbook.io/linux-sysops-handbook/
 - The complete linux course from beginner to power user! (https://www.youtube.com/watch?v=wBp0Rb-ZJak)
+- Linux Server Course https://www.youtube.com/watch?v=WMy3OzvBWc0
 
 <strong>2- Shell: </strong>
 - Bash Scripting Full Course (https://www.youtube.com/watch?v=e7BufAVwDiM)
@@ -49,6 +50,8 @@ If you feel yourself has the basics, you can apply for the AWS cloud DevOps nano
 
 if you want to gain a hands-on experience in Linux and, after that DevOps, I highly recommend registering in the kode kloud engineer platform 
 - https://kodekloud-engineer.com/#!/project_brief
+
+- DevOps Exercises Repo (https://github.com/bregman-arie/devops-exercises)
 
 ## People and Pages to follow:-
 - https://www.linkedin.com/company/womenindevops/
